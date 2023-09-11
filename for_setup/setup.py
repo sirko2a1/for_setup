@@ -12,6 +12,7 @@ setup(
         'requests==2.26.0'
         'pygame==2.0.1'
         'colorama==0.4.4'
+        'dill>=0.3.7'
         ],
 )
 
